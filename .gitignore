@@ -130,3 +130,6 @@ dmypy.json
 
 # LSP jupyter configuration files
 .virtual_documents/
+
+# Ignore dataset
+data/
